@@ -1,0 +1,10 @@
+1 int id a = 10 ;
+2 float float id b = 20.5 ;
+3 }
+4 int id a = 5 ;
+5 if ( a > 0 ) { a = a + 1 ; }
+6 else { a = a - 1 ; }
+7 else { a = 0 ; }
+8 for ( int id i = 0 ; i < 10 ; i = i + 1 ) { }
+9 while ( 1 ) { break ; }
+10 double id x , y ;
